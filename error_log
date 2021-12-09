@@ -1,0 +1,81 @@
+[21-Mar-2016 20:25:00 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'mysql.idhostinger.com' (2) in /home/psbsmknm/public_html/config/koneksi.php on line 2
+[21-Mar-2016 20:25:00 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/psbsmknm/public_html/index.php on line 98
+[21-Mar-2016 20:25:00 Asia/Jakarta] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/psbsmknm/public_html/index.php on line 98
+[21-Mar-2016 20:25:54 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'http://mysql.idhostinger.com' (2) in /home/psbsmknm/public_html/config/koneksi.php on line 2
+[21-Mar-2016 20:25:54 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/psbsmknm/public_html/index.php on line 98
+[21-Mar-2016 20:25:54 Asia/Jakarta] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/psbsmknm/public_html/index.php on line 98
+[21-Mar-2016 20:29:17 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'http://mysql.idhostinger.com' (2) in /home/psbsmknm/public_html/config/koneksi.php on line 2
+[21-Mar-2016 20:29:17 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/psbsmknm/public_html/index.php on line 98
+[21-Mar-2016 20:29:17 Asia/Jakarta] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/psbsmknm/public_html/index.php on line 98
+[21-Mar-2016 20:30:35 Asia/Jakarta] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'psbsmknm_psb'@'localhost' to database 'u350698288_psb' in /home/psbsmknm/public_html/config/koneksi.php on line 2
+[21-Mar-2016 20:30:35 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/psbsmknm/public_html/index.php on line 98
+[21-Mar-2016 20:30:35 Asia/Jakarta] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/psbsmknm/public_html/index.php on line 98
+[21-Mar-2016 20:30:39 Asia/Jakarta] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'psbsmknm_psb'@'localhost' to database 'u350698288_psb' in /home/psbsmknm/public_html/config/koneksi.php on line 2
+[21-Mar-2016 20:30:39 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/psbsmknm/public_html/index.php on line 98
+[21-Mar-2016 20:30:39 Asia/Jakarta] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/psbsmknm/public_html/index.php on line 98
+[26-Mar-2016 16:50:54 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/psbsmknm/public_html/config/koneksi.php on line 2
+[26-Mar-2016 16:50:55 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/psbsmknm/public_html/index.php on line 109
+[26-Mar-2016 16:50:55 Asia/Jakarta] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/psbsmknm/public_html/index.php on line 109
+[26-Mar-2016 16:50:58 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/psbsmknm/public_html/config/koneksi.php on line 2
+[26-Mar-2016 16:50:58 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/psbsmknm/public_html/config/koneksi.php on line 2
+[26-Mar-2016 16:51:01 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/psbsmknm/public_html/index.php on line 109
+[26-Mar-2016 16:51:01 Asia/Jakarta] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/psbsmknm/public_html/index.php on line 109
+[26-Mar-2016 16:50:58 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/psbsmknm/public_html/config/koneksi.php on line 2
+[26-Mar-2016 16:51:01 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/psbsmknm/public_html/index.php on line 109
+[26-Mar-2016 16:51:01 Asia/Jakarta] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/psbsmknm/public_html/index.php on line 109
+[26-Mar-2016 16:51:01 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/psbsmknm/public_html/index.php on line 109
+[26-Mar-2016 16:51:01 Asia/Jakarta] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/psbsmknm/public_html/index.php on line 109
+[26-Mar-2016 16:51:11 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/psbsmknm/public_html/config/koneksi.php on line 2
+[26-Mar-2016 16:51:11 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/psbsmknm/public_html/index.php on line 109
+[26-Mar-2016 16:51:11 Asia/Jakarta] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/psbsmknm/public_html/index.php on line 109
+[26-Mar-2016 16:51:12 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/psbsmknm/public_html/config/koneksi.php on line 2
+[26-Mar-2016 16:51:12 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/psbsmknm/public_html/index.php on line 109
+[26-Mar-2016 16:51:12 Asia/Jakarta] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/psbsmknm/public_html/index.php on line 109
+[26-Mar-2016 16:51:16 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/psbsmknm/public_html/config/koneksi.php on line 2
+[26-Mar-2016 16:51:16 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/psbsmknm/public_html/index.php on line 109
+[26-Mar-2016 16:51:16 Asia/Jakarta] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/psbsmknm/public_html/index.php on line 109
+[26-Mar-2016 16:51:19 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/psbsmknm/public_html/config/koneksi.php on line 2
+[26-Mar-2016 16:51:19 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/psbsmknm/public_html/index.php on line 109
+[26-Mar-2016 16:51:19 Asia/Jakarta] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/psbsmknm/public_html/index.php on line 109
+[26-Mar-2016 16:51:20 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/psbsmknm/public_html/config/koneksi.php on line 2
+[26-Mar-2016 16:51:20 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/psbsmknm/public_html/index.php on line 109
+[26-Mar-2016 16:51:20 Asia/Jakarta] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/psbsmknm/public_html/index.php on line 109
+[26-Mar-2016 16:51:22 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/psbsmknm/public_html/config/koneksi.php on line 2
+[26-Mar-2016 16:51:22 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/psbsmknm/public_html/index.php on line 109
+[26-Mar-2016 16:51:22 Asia/Jakarta] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/psbsmknm/public_html/index.php on line 109
+[26-Mar-2016 16:51:23 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/psbsmknm/public_html/config/koneksi.php on line 2
+[26-Mar-2016 16:51:23 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/psbsmknm/public_html/index.php on line 109
+[26-Mar-2016 16:51:23 Asia/Jakarta] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/psbsmknm/public_html/index.php on line 109
+[26-Mar-2016 16:51:23 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/psbsmknm/public_html/config/koneksi.php on line 2
+[26-Mar-2016 16:51:23 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/psbsmknm/public_html/index.php on line 109
+[26-Mar-2016 16:51:23 Asia/Jakarta] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/psbsmknm/public_html/index.php on line 109
+[26-Mar-2016 16:51:27 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/psbsmknm/public_html/config/koneksi.php on line 2
+[26-Mar-2016 16:51:27 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/psbsmknm/public_html/index.php on line 109
+[26-Mar-2016 16:51:27 Asia/Jakarta] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/psbsmknm/public_html/index.php on line 109
+[26-Mar-2016 16:51:33 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/psbsmknm/public_html/config/koneksi.php on line 2
+[26-Mar-2016 16:51:33 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/psbsmknm/public_html/index.php on line 109
+[26-Mar-2016 16:51:33 Asia/Jakarta] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/psbsmknm/public_html/index.php on line 109
+[26-Mar-2016 16:51:46 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/psbsmknm/public_html/config/koneksi.php on line 2
+[26-Mar-2016 16:51:46 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/psbsmknm/public_html/index.php on line 109
+[26-Mar-2016 16:51:46 Asia/Jakarta] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/psbsmknm/public_html/index.php on line 109
+[26-Mar-2016 16:53:26 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/psbsmknm/public_html/config/koneksi.php on line 2
+[26-Mar-2016 16:53:26 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/psbsmknm/public_html/index.php on line 109
+[26-Mar-2016 16:53:26 Asia/Jakarta] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/psbsmknm/public_html/index.php on line 109
+[01-Apr-2016 12:48:54 Asia/Jakarta] PHP Warning:  include(../config/koneksi.php): failed to open stream: No such file or directory in /home/psbsmknm/public_html/index.php on line 2
+[01-Apr-2016 12:48:54 Asia/Jakarta] PHP Warning:  include(../config/koneksi.php): failed to open stream: No such file or directory in /home/psbsmknm/public_html/index.php on line 2
+[01-Apr-2016 12:48:54 Asia/Jakarta] PHP Warning:  include(): Failed opening '../config/koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/psbsmknm/public_html/index.php on line 2
+[01-Apr-2016 12:48:54 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/psbsmknm/public_html/index.php on line 124
+[01-Apr-2016 12:48:54 Asia/Jakarta] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/psbsmknm/public_html/index.php on line 124
+[01-Apr-2016 12:49:13 Asia/Jakarta] PHP Warning:  require_once(../isi/utama.php): failed to open stream: No such file or directory in /home/psbsmknm/public_html/index.php on line 164
+[01-Apr-2016 12:49:14 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../isi/utama.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/psbsmknm/public_html/index.php on line 164
+[01-Apr-2016 12:49:25 Asia/Jakarta] PHP Warning:  require_once(../isi/utama.php): failed to open stream: No such file or directory in /home/psbsmknm/public_html/index.php on line 164
+[01-Apr-2016 12:49:25 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../isi/utama.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/psbsmknm/public_html/index.php on line 164
+[01-Apr-2016 12:49:51 Asia/Jakarta] PHP Warning:  include(../pengunjung.php): failed to open stream: No such file or directory in /home/psbsmknm/public_html/index.php on line 191
+[01-Apr-2016 12:49:51 Asia/Jakarta] PHP Warning:  include(../pengunjung.php): failed to open stream: No such file or directory in /home/psbsmknm/public_html/index.php on line 191
+[01-Apr-2016 12:49:51 Asia/Jakarta] PHP Warning:  include(): Failed opening '../pengunjung.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/psbsmknm/public_html/index.php on line 191
+[01-Apr-2016 12:49:51 Asia/Jakarta] PHP Warning:  include(asset/maps.php): failed to open stream: No such file or directory in /home/psbsmknm/public_html/index.php on line 265
+[01-Apr-2016 12:49:51 Asia/Jakarta] PHP Warning:  include(asset/maps.php): failed to open stream: No such file or directory in /home/psbsmknm/public_html/index.php on line 265
+[01-Apr-2016 12:49:51 Asia/Jakarta] PHP Warning:  include(): Failed opening 'asset/maps.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/psbsmknm/public_html/index.php on line 265
+[09-Apr-2016 19:44:58 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/psbsmknm/public_html/config/koneksi.php on line 2
+[09-Apr-2016 19:44:58 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/psbsmknm/public_html/index.php on line 109
+[09-Apr-2016 19:44:58 Asia/Jakarta] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/psbsmknm/public_html/index.php on line 109
